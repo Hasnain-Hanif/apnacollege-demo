@@ -1,4 +1,4 @@
 # apnacollege-demo 
 This is my  first Git Repository
 <br>
-Author - Hasnain Hanif
+<span><b>Author</b> - Hasnain Hanif</span>
